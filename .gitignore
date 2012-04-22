@@ -14,3 +14,5 @@ doc/
 *~
 .project
 .DS_Store
+
+*.webloc
